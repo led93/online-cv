@@ -14,10 +14,9 @@ sidebar:
     # Sidebar links
     email: xluigix93@gmail.com
     phone: (JP) +81 80-9644-1141 
-    phone 2: (IT) +39 3279355446 
-    timezone: Japan/Tokyo JST
+    timezone: Japan/Tokyo
     citizenship: Italian
-    linkedin: <a href="https://www.linkedin.com/in/luigi-tedesco-0aa773160">Luigi Tedesco</a>
+    linkedin: <a href="luigi-tedesco-0aa773160">Luigi Tedesco</a>
     github: led93
 
     languages:
@@ -69,19 +68,16 @@ education:
         university: Università degli Studi di Bari Aldo Moro
         time: 2014 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my BSc I've acquired my Computer Science fundamentals. 
+          Some of the skills acquired comprise of design, develop, test and maintain software 
+          systems; DBMS, algorithms and data structures, mobile applications.
+            - Thesis: NEL Search - A Semantic Named Entity Linking Search Engine
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Engineer
+        time: 2021 - 2023
+        company: Open Reply, Bari
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -206,5 +202,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
