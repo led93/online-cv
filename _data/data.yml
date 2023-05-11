@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,20 +13,21 @@ sidebar:
 
     # Sidebar links
     email: xluigix93@gmail.com
-    phone: (IT) +39 3279355446 - (JP) +81 80-9644-1141
+    phone: (JP) +81 80-9644-1141 
+    phone 2: (IT) +39 3279355446 
     timezone: Japan/Tokyo JST
     citizenship: Italian
-    linkedin: https://www.linkedin.com/in/luigi-tedesco-0aa773160
+    linkedin: <a href="https://www.linkedin.com/in/luigi-tedesco-0aa773160">Luigi Tedesco</a>
     github: led93
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Professional
-
         - idiom: Italian
           level: Native
+          
+        - idiom: English
+          level: Professional
 
         - idiom: Japanese
           level: Intermediate
@@ -34,19 +35,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
-        - item: Cooking
+        - item: Traveling
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      I'm a Software Engineer that has spent most Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -59,13 +60,11 @@ education:
         university: Università degli Studi di Bari Aldo Moro
         time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In this MSc degree I've had the chance to deepen my understanding of 
+          some core Computer Science concepts; starting from information theory, 
+          artificial intelligence, advanced and distributed database systems; 
+          up to designing large complex software systems, e.g. microservices architecture.
+            - Thesis: DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings
       - degree: BSc in Computer Science
         university: Università degli Studi di Bari Aldo Moro
         time: 2014 - 2017
