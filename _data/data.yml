@@ -34,6 +34,9 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Technology
+          link:
+          
         - item: Reading
           link:
 
@@ -59,19 +62,18 @@ education:
         university: Università degli Studi di Bari Aldo Moro
         time: 2018 - 2021
         details: |
-          In this MSc degree I've had the chance to deepen my understanding of 
-          some core Computer Science concepts; starting from information theory, 
-          artificial intelligence, advanced and distributed database systems; 
-          up to designing large complex software systems, e.g. microservices architecture.
-            - Thesis: DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings
+            - Strengthened understanding of core Computer Science concepts including information theory, 
+            artificial intelligence, advanced and distributed database systems
+            - Proficient in designing large complex software systems, specializing in microservices architecture
+            - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
       - degree: BSc in Computer Science
         university: Università degli Studi di Bari Aldo Moro
         time: 2014 - 2017
         details: |
-          During my BSc I've acquired my Computer Science fundamentals. 
-          Some of the skills acquired comprise of design, develop, test and maintain software 
-          systems; DBMS, algorithms and data structures, mobile applications.
-            - Thesis: NEL Search - A Semantic Named Entity Linking Search Engine
+            - Acquired strong foundation in Computer Science with emphasis on design, development, testing, 
+            and maintenance of software systems.
+            - Proficient in DBMS, algorithms, data structures, and mobile applications.
+            - Conducted thesis: "NEL Search - A Semantic Named Entity Linking Search Engine".
 experiences:
     title: Experiences
     info:
