@@ -16,7 +16,7 @@ sidebar:
     phone: (JP) +81 80-9644-1141 
     timezone: Japan/Tokyo
     citizenship: Italian
-    linkedin: luigi-tedesco-0aa773160>Luigi Tedesco</a>
+    linkedin: luigi-tedesco-0aa773160
     github: led93
 
     languages:
@@ -49,12 +49,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a Software Engineer that has spent most Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Software Engineer with a strong background in back-end development and a passion for creating innovative solutions. 
+      Proven track record of success in the financial domain, specifically in the design and development of a wealth management platform. 
+      Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux. 
+      Demonstrated leadership abilities by supervising and mentoring junior software engineers. 
+      Additionally, proficient as a full stack developer with expertise in Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
+      A motivated and adaptable professional committed to delivering high-quality software solutions while continuously expanding 
+      technical knowledge and staying abreast of industry trends.
 education:
     title: Education
     info:
