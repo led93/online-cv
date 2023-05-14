@@ -53,6 +53,7 @@ career-profile:
       Proven track record of success in the financial domain, specifically in the design and development of a wealth management platform. 
       Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux. 
       Demonstrated leadership abilities by supervising and mentoring junior software engineers. 
+      
       Additionally, proficient as a full stack developer with expertise in Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
       A motivated and adaptable professional committed to delivering high-quality software solutions while continuously expanding 
       technical knowledge and staying abreast of industry trends.
@@ -64,7 +65,7 @@ education:
         time: 2018 - 2021
         details: |
             - Strengthened understanding of core Computer Science concepts including information theory, 
-            artificial intelligence, advanced and distributed database systems
+            artificial intelligence, advanced and distributed software systems
             - Proficient in designing large complex software systems, specializing in microservices architecture
             - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
       - degree: BSc in Computer Science
