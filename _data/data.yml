@@ -3,210 +3,156 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Luigi Tedesco
+  tagline: Software Engineer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: xluigix93@gmail.com
-    phone: (JP) +81 80-9644-1141 
-    timezone: Japan/Tokyo
-    citizenship: Italian
-    linkedin: luigi-tedesco-0aa773160
-    github: led93
+  # Sidebar links
+  email: xluigix93@gmail.com
+  phone: 080-9644-1141
+  timezone: Japan/Tokyo
+  citizenship: Italian
+  linkedin:
+    link: luigi-tedesco-0aa773160
+    displayname: Luigi Tedesco
+  github: led93
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Italian
-          level: Native
-          
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: Italian
+        level: Native
 
-        - idiom: Japanese
-          level: Intermediate
+      - idiom: English
+        level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Technology
-          link:
-          
-        - item: Reading
-          link:
+      - idiom: Japanese
+        level: Intermediate
 
-        - item: Sports
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Technology
+        link:
 
-        - item: Traveling
-          link:
+      - item: Reading
+        link:
+
+      - item: Sports
+        link:
+
+      - item: Traveling
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Experienced Software Engineer specializing in back-end development within the financial domain. 
-      Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux.
-      Demonstrated expertise in designing and developing complex software systems. 
-      Also experienced as a full stack developer using Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
-      Committed to delivering innovative and high-quality software solutions, while providing guidance to newly 
-      onboarded software engineers. 
-      Dedicated to continuous learning and staying updated with industry trends.
-      
+  title: Career Profile
+  summary: |
+    Experienced Software Engineer specializing in back-end development within the financial domain. 
+    Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux.
+    Demonstrated expertise in designing and developing complex software systems. 
+    Also experienced as a full stack developer using Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
+    Committed to delivering innovative and high-quality software solutions.
+    Dedicated to continuous learning and staying updated with industry trends.
+
 experiences:
-    title: Experiences
-    info:
-      - role: Software Engineer
-        time: 2021 - 2023
-        company: Open Reply, Bari
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Consultant - Java Developer
+      time: 2021 - 2023
+      company: Open Reply, Bari, Italy
+      details: |
+        Worked on a wealth management platform, 
+          - Bullet point
+          - Bullet point
+    - role: Researcher - Full Stack Developer
+      time: 2017 - 2018
+      company: Directa Lab, Conversano, Italy
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science & Software Engineering
-        university: Università degli Studi di Bari Aldo Moro
-        time: 2018 - 2021
-        details: |
-            - Strengthened understanding of core Computer Science concepts including information theory, 
-            artificial intelligence, advanced and distributed software systems
-            - Proficient in designing large complex software systems, specializing in microservices architecture
-            - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
-      - degree: BSc in Computer Science
-        university: Università degli Studi di Bari Aldo Moro
-        time: 2014 - 2017
-        details: |
-            - Acquired strong foundation in Computer Science with emphasis on design, development, testing, 
-            and maintenance of software systems.
-            - Proficient in DBMS, algorithms, data structures, and mobile applications.
-            - Conducted thesis: "NEL Search - A Semantic Named Entity Linking Search Engine".
-            
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Education
+  info:
+    - degree: MSc in Computer Science & Software Engineering
+      university: Università degli Studi di Bari Aldo Moro
+      time: 2018 - 2021
+      details: |
+        - Strengthened understanding of core Computer Science concepts including information theory, 
+        artificial intelligence, advanced and distributed software systems
+        - Proficient in designing large complex software systems, specializing in microservices architecture
+        - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
+    - degree: BSc in Computer Science
+      university: Università degli Studi di Bari Aldo Moro
+      time: 2014 - 2017
+      details: |
+        - Acquired strong foundation in Computer Science with emphasis on design, development, testing, 
+        and maintenance of software systems.
+        - Proficient in DBMS, algorithms, data structures, and mobile applications.
+        - Conducted thesis: "NEL Search - A Semantic Named Entity Linking Search Engine".
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+tech:
+  title: Technologies
+  intro: >
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  assignments:
+    - title: Languages
+      link:
+      tagline: "Java (~5y), Python (~2y), SQL (~5y), Javascript (~3y), C (~1y),
+        C# (~1y), C++ (~2y)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Frameworks/Libraries
+      link:
+      tagline: "Spring Boot, Spring Batch, Spring Data, Spring Security, Django, React, Bootstrap"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Database Technologies
+      link:
+      tagline: "MySQL, Oracle, MongoDB, Liquibase, JPA, JDBC, Hibernate"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Web Technologies/Markup
+      link:
+      tagline: "HTML, CSS, XML, JSON"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Testing
+      link:
+      tagline: "JUnit, Mockito, Selenium"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Web Communication Standard/Protocol
+      link:
+      tagline: "REST, SOAP"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - title: Technical Skills
+      link:
+      tagline: "Design, Develop, Debugging, Testing"
+    
+    - title: IDE
+      link:
+      tagline: "IntelliJ, PyCharm, Eclipse, Visual Studio, VS Code"
+    
+    - title: Build Tool
+      link:
+      tagline: "Maven"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: Project Development Metodology
+      link:
+      tagline: "Agile, Waterfall"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    - title: Containerization/Orchestration/Messaging
+      link:
+      tagline: "Docker, Kubernetes, RabbitMQ"
+  
+    - title: VCS
+      link:
+      tagline: "Git"
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
