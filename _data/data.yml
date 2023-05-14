@@ -50,32 +50,13 @@ career-profile:
     title: Career Profile
     summary: |
       Experienced Software Engineer specializing in back-end development within the financial domain. 
-      Demonstrated expertise in designing and developing a branch of a wealth management platform. 
-      Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux. 
+      Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux.
+      Demonstrated expertise in designing and developing complex software systems. 
       Also experienced as a full stack developer using Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
       Committed to delivering innovative and high-quality software solutions, while providing guidance to newly 
       onboarded software engineers. 
       Dedicated to continuous learning and staying updated with industry trends.
       
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science & Software Engineering
-        university: Università degli Studi di Bari Aldo Moro
-        time: 2018 - 2021
-        details: |
-            - Strengthened understanding of core Computer Science concepts including information theory, 
-            artificial intelligence, advanced and distributed software systems
-            - Proficient in designing large complex software systems, specializing in microservices architecture
-            - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
-      - degree: BSc in Computer Science
-        university: Università degli Studi di Bari Aldo Moro
-        time: 2014 - 2017
-        details: |
-            - Acquired strong foundation in Computer Science with emphasis on design, development, testing, 
-            and maintenance of software systems.
-            - Proficient in DBMS, algorithms, data structures, and mobile applications.
-            - Conducted thesis: "NEL Search - A Semantic Named Entity Linking Search Engine".
 experiences:
     title: Experiences
     info:
@@ -116,6 +97,27 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science & Software Engineering
+        university: Università degli Studi di Bari Aldo Moro
+        time: 2018 - 2021
+        details: |
+            - Strengthened understanding of core Computer Science concepts including information theory, 
+            artificial intelligence, advanced and distributed software systems
+            - Proficient in designing large complex software systems, specializing in microservices architecture
+            - Conducted thesis: "DCEC Paint - A Deep Convolutional Embedded Clustering Model for Paintings"
+      - degree: BSc in Computer Science
+        university: Università degli Studi di Bari Aldo Moro
+        time: 2014 - 2017
+        details: |
+            - Acquired strong foundation in Computer Science with emphasis on design, development, testing, 
+            and maintenance of software systems.
+            - Proficient in DBMS, algorithms, data structures, and mobile applications.
+            - Conducted thesis: "NEL Search - A Semantic Named Entity Linking Search Engine".
+            
 projects:
     title: Projects
     intro: >
