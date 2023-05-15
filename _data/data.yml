@@ -65,20 +65,21 @@ experiences:
       time: 2021 - 2023
       company: Open Reply, Bari, Italy
       details: |
-        Worked on a wealth management platform, 
-          - Bullet point
-          - Bullet point
+        Worked on a wealth management platform in the financial domain as a Java Back-End Developer. 
+        I have been in charge of designing and developing one of the core components of the system. 
+        Here I have managed to acquire a strong knowledge of the Spring ecosystem, mainly in
+        Spring Data, Spring Boot, Spring Batch, Spring Web. Oracle DBMS.
+        I have been also in charge of supervising newly onboarded software engineers.
+
     - role: Researcher - Full Stack Developer
       time: 2017 - 2018
       company: Directa Lab, Conversano, Italy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked on a variety of different projects as Full Stack Developer.
+        From web, mobile, to IoT applications.
+        The main technology stack used comprised of: Python Django framework, Javascript React, Bootstrap,
+        Java, MySQL.
+        Worked individually and as part of a team, adopting Test Driven Development.
 
 education:
   title: Education
@@ -116,7 +117,7 @@ tech:
 
     - title: Database Technologies
       link:
-      tagline: "MySQL, Oracle, MongoDB, Liquibase, JPA, JDBC, Hibernate"
+      tagline: "MySQL, Oracle, MongoDB, Liquibase, Neo4J, JPA, JDBC, Hibernate"
 
     - title: Web Technologies/Markup
       link:
