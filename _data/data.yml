@@ -67,9 +67,9 @@ experiences:
       details: |
         Worked on a wealth management platform in the financial domain as a Java Back-End Developer. 
         I have been in charge of designing and developing one of the core components of the system. 
-        Here I have managed to acquire a strong knowledge of the Spring ecosystem, mainly in
+        Here I have managed to acquire a strong knowledge of Java 8 and Spring ecosystem, mainly in
         Spring Data, Spring Boot, Spring Batch, Spring Web. Oracle DBMS.
-        I have been also in charge of supervising newly onboarded software engineers.
+        Worked using both Windows and Linux operating systems.
 
     - role: Researcher - Full Stack Developer
       time: May 2018 - Nov 2018
@@ -77,8 +77,8 @@ experiences:
       details: |
         Worked on a variety of different projects as Full Stack Developer.
         From web, mobile, to IoT applications.
-        The main technology stack used comprise of: Python Django framework, Javascript React, Bootstrap,
-        Java, MySQL.
+        The main technology stack used comprise of: Python Django framework, Javascript, React, Bootstrap,
+        Java 8, MySQL. Using both Windows and Linux operating systems.
         Worked individually and as part of a team, adopting Test Driven Development.
 
 education:
@@ -108,7 +108,7 @@ tech:
   assignments:
     - title: Languages
       link:
-      tagline: "Java (~5y), Python (~2y), SQL (~5y), Javascript (~3y), C (~1y),
+      tagline: "Java 8 (~5y), Python (~2y), SQL (~5y), Javascript (~3y), C (~1y),
         C# (~1y), C++ (~2y)"
 
     - title: Frameworks/Libraries
@@ -118,6 +118,10 @@ tech:
     - title: Database Technologies
       link:
       tagline: "MySQL, Oracle, MongoDB, Liquibase, Neo4J, JPA, JDBC, Hibernate"
+
+    - title: Operating Systems
+      link:
+      tagline: "Windows, Linux, MacOS"
 
     - title: Web Technologies/Markup
       link:
