@@ -108,8 +108,7 @@ tech:
   assignments:
     - title: Languages
       link:
-      tagline: "Java 8 (~2.5y Working exp / ~2.5y Academic and pers. projects), Python (~2y), SQL (~5y), Javascript (~3y), C (~1y),
-        C# (~1y), C++ (~2y)"
+      tagline: "Java 8 (~2.5y), Python (~1y), SQL (~2.5y)"
 
     - title: Frameworks/Libraries
       link:
