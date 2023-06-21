@@ -112,7 +112,7 @@ tech:
 
     - title: Frameworks/Libraries
       link:
-      tagline: "Spring Boot, Spring Batch, Spring Data, Spring Security, Django, React, Bootstrap"
+      tagline: "Spring Boot, Spring Batch, Spring Data, Spring Security, Django"
 
     - title: Database Technologies
       link:
@@ -150,10 +150,6 @@ tech:
       link:
       tagline: "Agile, Waterfall"
 
-    - title: Containerization/Orchestration/Messaging
-      link:
-      tagline: "Docker, Kubernetes, RabbitMQ"
-  
     - title: VCS
       link:
       tagline: "Git"
