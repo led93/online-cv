@@ -80,7 +80,10 @@ experiences:
       details: |
         Worked on a variety of different projects as Full Stack Developer.
         From web, mobile, to IoT applications.
-        The main technology stack used comprise of: Python Django framework, Javascript, React, Bootstrap,
+        The biggest project on which I have worked on has been a BPM (Business Process Management) System.
+        One of the biggest challenges that I had to solve has been to come up with a solution that allowed 
+        end users to interactively setup and model internal business processes using a graph visualization tool.
+        The main technology stack used comprised of: Python Django framework, Javascript, React, Bootstrap,
         Java 8, MySQL. Using both Windows and Linux operating systems.
         Worked individually and as part of a team, adopting Test Driven Development.
 
