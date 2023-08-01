@@ -81,20 +81,16 @@ experiences:
       time: May 2018 - Nov 2018
       company: Directa Lab, Conversano, Italy
       details: |
-        As a versatile Full Stack Developer, I have contributed to a wide array of projects, spanning web, mobile, 
-        and IoT applications. Among these, the most substantial undertaking was a BPM (Business Process Management) System.
-        A significant challenge I successfully tackled involved devising an interactive solution that empowered end users 
-        to efficiently set up and model internal business processes, leveraging a graph visualization tool. 
-        This achievement not only streamlined workflows but also enhanced overall productivity for the system's users.
-        Throughout this journey, I leveraged a diverse technology stack, incorporating Python Django framework, 
-        Javascript, React, Bootstrap, Java 8, and MySQL. My proficiency extended to both Windows and Linux operating systems, 
-        seamlessly adapting to diverse development environments.
-        Whether working independently or as part of a team, I consistently adopted Test Driven Development methodologies, 
-        ensuring robust and reliable codebases. My commitment to producing high-quality solutions and my passion for 
-        staying abreast of the latest technological advancements have been key drivers in my journey as a Full Stack Developer.
-        I take pride in my adaptability, enabling me to embrace new challenges with enthusiasm and deliver results.
-        My experiences have instilled in me a strong appreciation for collaborative work, effective communication, 
-        and the value of continuous learning, making me a versatile and dedicated professional ready to take on new opportunities.
+        - Versatile Full Stack Developer with experience in diverse projects, including web, mobile, and IoT applications.
+        - Successfully led the development of a significant BPM (Business Process Management) System, empowering users with an interactive solution for modeling internal business processes using a graph visualization tool.
+        - Proficiently utilized a diverse technology stack, encompassing Python Django framework, Javascript, React, Bootstrap, Java 8, and MySQL, to deliver robust and scalable solutions.
+        - Adapted seamlessly to various operating systems, both Windows and Linux, to ensure optimal performance in different development environments.
+        - Demonstrated a strong commitment to Test Driven Development methodologies, resulting in reliable and high-quality codebases.
+        - Passionate about staying up-to-date with the latest technological advancements to enhance project outcomes.
+        - Proven ability to work effectively both independently and collaboratively within cross-functional teams.
+        - Embraced challenges with enthusiasm and a solution-oriented approach, leading to successful project deliveries.
+        - Valued effective communication, fostering a collaborative work environment to drive project success.
+        - Continuously sought opportunities for growth and learning, making me a dedicated professional ready for new challenges.
 education:
   title: Education
   info:
