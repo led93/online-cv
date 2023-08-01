@@ -61,36 +61,22 @@ career-profile:
 experiences:
   title: Experiences
   info:
-    - role: Consultant - Java Developer
+    - role: Consultant - Java Back-End Developer
       time: Apr 2021 - Jan 2023
       company: Open Reply, Bari, Italy
       details: |
-        As a Java Back-End Developer, I had the privilege of contributing to a multifaceted wealth management platform 
-        within the financial domain. One of the key defining features of this platform was its system integrator nature, 
-        which posed both challenges and strengths to the development process.
-        One of the primary challenges was seamlessly integrating a multitude of third-party systems, 
-        each communicating through REST APIs and SOAP APIs. The complexity of ensuring smooth interactions between these 
-        systems required a meticulous approach and a deep understanding of API integration methodologies.
-        Another significant challenge stemmed from the nature of the financial domain itself. 
-        The platform dealt with a substantial and diverse volume of data, necessitating efficient handling, 
-        processing, and management. Successfully addressing this demand was critical to ensure optimal performance 
-        and user experience.
-        Throughout the development process, we adhered to a rigorous methodology. 
-        It always commenced with a comprehensive requirement analysis to gain a thorough understanding of the 
-        project's objectives. From there, we meticulously designed, implemented, and rigorously tested solutions, 
-        employing tools like Mockito and JUnit 5 to ensure the robustness and reliability of our codebase.
-        In this dynamic environment, my expertise in Java 8 and the Spring ecosystem, particularly Spring Data, 
-        Spring Boot, Spring Batch, and Spring Web, played a pivotal role in delivering effective solutions. 
-        Additionally, I skillfully worked with Oracle DBMS, leveraging its capabilities to enhance data management and integration.
-        Working with a cross-functional team, I fostered a collaborative and supportive work environment, 
-        valuing effective communication and teamwork. This approach proved instrumental in overcoming challenges 
-        and achieving shared objectives.
-        As an ardent advocate of continuous learning, I constantly sought opportunities to stay abreast of industry 
-        trends and emerging technologies. My commitment to growth and technical excellence enabled me to make valuable 
-        contributions to the wealth management platform, resulting in enhanced performance and user satisfaction.
-        I take pride in my role as a Java Back-End Developer, and I eagerly look forward to leveraging 
-        my expertise to drive innovation and success in future projects. 
-
+        - Java Back-End Developer in the financial domain, contributing to a comprehensive wealth management platform.
+        - Designed and developed core components focused on portfolio models of financial products.
+        - Successfully handled the development, extension, and maintenance of REST APIs for seamless interactions within the system.
+        - Overcame a significant challenge of data migration impacting a large customer base, involving hundreds of thousands of records.
+        - Gained strong expertise in Java 8 and the Spring ecosystem, including Spring Data, Spring Boot, Spring Batch, and Spring Web.
+        - Proficiently worked with Oracle DBMS to enhance data management and integration.
+        - Excelled in integrating various third-party systems using REST APIs and SOAP APIs, ensuring smooth communication and system integrity.
+        - Managed substantial and diverse data volumes inherent to the financial domain, demonstrating efficient data handling and processing capabilities.
+        - Employed rigorous requirement analysis, design, implementation, and testing using Mockito and JUnit 5 for robust and reliable codebases.
+        - Fostered a collaborative work environment, valuing effective communication and teamwork within cross-functional teams.
+        - Committed to continuous learning, staying up-to-date with industry trends and emerging technologies.
+        - Eager to leverage expertise to drive innovation and success in future projects.
     - role: Researcher - Full Stack Developer
       time: May 2018 - Nov 2018
       company: Directa Lab, Conversano, Italy
@@ -165,11 +151,11 @@ tech:
     - title: Technical Skills
       link:
       tagline: "Design, Develop, Debugging, Testing"
-    
+
     - title: IDE
       link:
       tagline: "IntelliJ, PyCharm, Eclipse, Visual Studio, VS Code"
-    
+
     - title: Build Tool
       link:
       tagline: "Maven"
@@ -181,6 +167,5 @@ tech:
     - title: VCS
       link:
       tagline: "Git"
-
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
