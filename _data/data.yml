@@ -65,28 +65,50 @@ experiences:
       time: Apr 2021 - Jan 2023
       company: Open Reply, Bari, Italy
       details: |
-        Worked on a wealth management platform in the financial domain as a Java Back-End Developer. 
-        I have been in charge of helping design and develop one of the core components of the system, 
-        related to portfolio models of financial products. I have developed, extended and maintained REST APIs.
-        One of the biggest challenges that I had to solve was a data migration that affected the entire customer base 
-        (hundreds of thousands of records).
-        Here I have managed to acquire a strong knowledge of Java 8 and Spring ecosystem, mainly in
-        Spring Data, Spring Boot, Spring Batch, Spring Web. Oracle DBMS.
-        Worked using both Windows and Linux operating systems.
+        As a Java Back-End Developer, I had the privilege of contributing to a multifaceted wealth management platform 
+        within the financial domain. One of the key defining features of this platform was its system integrator nature, 
+        which posed both challenges and strengths to the development process.
+        One of the primary challenges was seamlessly integrating a multitude of third-party systems, 
+        each communicating through REST APIs and SOAP APIs. The complexity of ensuring smooth interactions between these 
+        systems required a meticulous approach and a deep understanding of API integration methodologies.
+        Another significant challenge stemmed from the nature of the financial domain itself. 
+        The platform dealt with a substantial and diverse volume of data, necessitating efficient handling, 
+        processing, and management. Successfully addressing this demand was critical to ensure optimal performance 
+        and user experience.
+        Throughout the development process, we adhered to a rigorous methodology. 
+        It always commenced with a comprehensive requirement analysis to gain a thorough understanding of the 
+        project's objectives. From there, we meticulously designed, implemented, and rigorously tested solutions, 
+        employing tools like Mockito and JUnit 5 to ensure the robustness and reliability of our codebase.
+        In this dynamic environment, my expertise in Java 8 and the Spring ecosystem, particularly Spring Data, 
+        Spring Boot, Spring Batch, and Spring Web, played a pivotal role in delivering effective solutions. 
+        Additionally, I skillfully worked with Oracle DBMS, leveraging its capabilities to enhance data management and integration.
+        Working with a cross-functional team, I fostered a collaborative and supportive work environment, 
+        valuing effective communication and teamwork. This approach proved instrumental in overcoming challenges 
+        and achieving shared objectives.
+        As an ardent advocate of continuous learning, I constantly sought opportunities to stay abreast of industry 
+        trends and emerging technologies. My commitment to growth and technical excellence enabled me to make valuable 
+        contributions to the wealth management platform, resulting in enhanced performance and user satisfaction.
+        I take pride in my role as a Java Back-End Developer, and I eagerly look forward to leveraging 
+        my expertise to drive innovation and success in future projects. 
 
     - role: Researcher - Full Stack Developer
       time: May 2018 - Nov 2018
       company: Directa Lab, Conversano, Italy
       details: |
-        Worked on a variety of different projects as Full Stack Developer.
-        From web, mobile, to IoT applications.
-        The biggest project on which I have worked on has been a BPM (Business Process Management) System.
-        One of the biggest challenges that I had to solve has been to come up with a solution that allowed 
-        end users to interactively setup and model internal business processes using a graph visualization tool.
-        The main technology stack used comprised of: Python Django framework, Javascript, React, Bootstrap,
-        Java 8, MySQL. Using both Windows and Linux operating systems.
-        Worked individually and as part of a team, adopting Test Driven Development.
-
+        As a versatile Full Stack Developer, I have contributed to a wide array of projects, spanning web, mobile, 
+        and IoT applications. Among these, the most substantial undertaking was a BPM (Business Process Management) System.
+        A significant challenge I successfully tackled involved devising an interactive solution that empowered end users 
+        to efficiently set up and model internal business processes, leveraging a graph visualization tool. 
+        This achievement not only streamlined workflows but also enhanced overall productivity for the system's users.
+        Throughout this journey, I leveraged a diverse technology stack, incorporating Python Django framework, 
+        Javascript, React, Bootstrap, Java 8, and MySQL. My proficiency extended to both Windows and Linux operating systems, 
+        seamlessly adapting to diverse development environments.
+        Whether working independently or as part of a team, I consistently adopted Test Driven Development methodologies, 
+        ensuring robust and reliable codebases. My commitment to producing high-quality solutions and my passion for 
+        staying abreast of the latest technological advancements have been key drivers in my journey as a Full Stack Developer.
+        I take pride in my adaptability, enabling me to embrace new challenges with enthusiasm and deliver results.
+        My experiences have instilled in me a strong appreciation for collaborative work, effective communication, 
+        and the value of continuous learning, making me a versatile and dedicated professional ready to take on new opportunities.
 education:
   title: Education
   info:
