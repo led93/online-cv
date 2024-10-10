@@ -47,13 +47,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Experienced Software Engineer specializing in back-end development within the financial domain. 
-    Skilled in Java, Spring framework, Oracle DBMS, Git, and Linux.
-    Demonstrated expertise in designing and developing complex software systems. 
-    Also experienced as a full stack developer using Java, Python, Django, MySQL, HTML, CSS, and JavaScript. 
-    Committed to delivering innovative and high-quality software solutions.
-    Dedicated to continuous learning and staying updated with industry trends.
-
+    Software Engineer with a strong specialization in back-end development and a focus on the financial sector. 
+    Proficient in Java, the Spring framework, Microservices architecture, CI/CD development, 
+    and Relational/NoSQL database management systems (DBMS). 
+    Extensive experience in designing, developing, and maintaining complex software systems. 
+    Additionally, skilled as a full-stack developer with hands-on experience in React.
 experiences:
   title: Experiences
   info:
