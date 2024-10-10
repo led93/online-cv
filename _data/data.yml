@@ -55,6 +55,15 @@ career-profile:
 experiences:
   title: Experiences
   info:
+    - role: Full Stack Developer
+      time: Oct 2023 - Present
+      company: TEKSystem (Metlife), Tokyo, Japan
+      details: |
+        - Designed, developed, and maintained microservices as a Full Stack Software Engineer.
+        - Created and implemented solutions for new user requirements, ensuring high standards in both back-end (REST API) and front-end (React) development.
+        - Executed DevOps tasks related to CI/CD processes on a Microsoft Azure cloud platform, utilizing Docker and Kubernetes.
+        - Focused on migration tasks, involving comparisons between new features and legacy applications to prevent and resolve any new bugs.
+        - Conducted regular vulnerability mitigations, including package upgrades, code audits, and maintenance using code analysis tools.
     - role: Consultant - Java Back-End Developer
       time: Apr 2021 - Jan 2023
       company: Open Reply, Bari, Italy
