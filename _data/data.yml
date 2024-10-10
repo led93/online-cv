@@ -34,13 +34,10 @@ sidebar:
     info:
       - item: Technology
         link:
-
       - item: Reading
         link:
-
-      - item: Sports
+      - item: Videogames and Computer Graphics
         link:
-
       - item: Traveling
         link:
 
@@ -121,15 +118,15 @@ tech:
   assignments:
     - title: Languages
       link:
-      tagline: "Java 8 (~2.5y), Python (~1y), SQL (~2.5y)"
+      tagline: "Java, Python, SQL, Javascript, C++, Go"
 
     - title: Frameworks/Libraries
       link:
-      tagline: "Spring Boot, Spring Batch, Spring Data, Spring Security, Django"
+      tagline: "Spring, Django, React"
 
     - title: Database Technologies
       link:
-      tagline: "MySQL, Oracle, MongoDB, Liquibase, Neo4J, JPA, JDBC, Hibernate"
+      tagline: "MySQL, Oracle, MongoDB, CosmosDB, Neo4J, JPA"
 
     - title: Operating Systems
       link:
@@ -149,7 +146,7 @@ tech:
 
     - title: Technical Skills
       link:
-      tagline: "Design, Develop, Debugging, Testing"
+      tagline: "Design, Develop, Debugging, Testing, Optimization"
 
     - title: IDE
       link:
@@ -169,4 +166,4 @@ tech:
 
     - title: Container Technologies 
       link:
-      tagline: "Docker"
+      tagline: "Docker, Kubernetes"
